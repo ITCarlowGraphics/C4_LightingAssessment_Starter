@@ -21,6 +21,7 @@
 #include "SFML/Graphics.hpp" 
 #include "SFML/Graphics/Shader.hpp"
 #include "SFML/OpenGL.hpp" 
+#include <gl/GLU.h>
 #include <iostream> 
 
 #include "Camera.h"
